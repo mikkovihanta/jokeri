@@ -5,7 +5,7 @@ const getRandomIntNumberInRange = (min, max) => {
 };
 
 const lisaRivi = () => {
-    const tableBody = document.querySelector('#num1 tbody');
+    const tableBody = document.querySelector('#num1');
     
     const uusRivi = document.createElement('tr');
 
